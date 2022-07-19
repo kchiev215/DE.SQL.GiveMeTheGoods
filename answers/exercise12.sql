@@ -1,0 +1,1 @@
+SELECT * FROM STUDENTS WHERE CITY IN ('Sint Maarten') OR  CITY IN ('Haiti');
